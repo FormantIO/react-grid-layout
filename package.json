@@ -1,6 +1,6 @@
 {
-  "name": "react-grid-layout",
-  "version": "1.5.0",
+  "name": "@formant/react-grid-layout",
+  "version": "1.5.0-formant",
   "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:STRML/react-grid-layout.git"
+    "url": "git@github.com:formantIO/react-grid-layout.git"
   },
   "keywords": [
     "react",

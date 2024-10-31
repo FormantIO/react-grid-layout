@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.5.0-formant (oct 31, 2024)
+- Applied patch fixing the resize handle lagging behind cursor. https://github.com/react-grid-layout/react-resizable/issues/237
+
 ## 1.4.4 (Nov 28, 2023)
 
 ### Bugfixes
