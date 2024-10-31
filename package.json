@@ -1,6 +1,6 @@
 {
   "name": "@formant/react-grid-layout",
-  "version": "1.5.0-formant",
+  "version": "1.5.2-formant",
   "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
   "main": "index.js",
   "scripts": {
@@ -41,7 +41,7 @@
     "fast-equals": "^4.0.3",
     "prop-types": "^15.8.1",
     "react-draggable": "^4.4.5",
-    "react-resizable": "3.0.5",
+    "@formant/react-resizable": "3.0.5-formant",
     "resize-observer-polyfill": "^1.5.1"
   },
   "_dependencyNotes": {

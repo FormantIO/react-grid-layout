@@ -2,7 +2,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { DraggableCore } from "react-draggable";
-import { Resizable } from "react-resizable";
+import { Resizable } from "@formant/react-resizable";
 import {
   fastPositionEqual,
   perc,
